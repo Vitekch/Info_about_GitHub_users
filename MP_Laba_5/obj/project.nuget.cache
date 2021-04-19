@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "0E4aBw+QF223jsQ0sCxjF5dco0QVBZpFKNX6cHo9AmfJBo3/sEvIXXECiS0CbLPUeMugzZkCFlIvTMX7voygNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vitek\\source\\repos\\MP_Laba_5\\MP_Laba_5\\MP_Laba_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitek\\.nuget\\packages\\atksharp\\3.24.24.34\\atksharp.3.24.24.34.nupkg.sha512",
+    "C:\\Users\\vitek\\.nuget\\packages\\cairosharp\\3.24.24.34\\cairosharp.3.24.24.34.nupkg.sha512",
+    "C:\\Users\\vitek\\.nuget\\packages\\gdksharp\\3.24.24.34\\gdksharp.3.24.24.34.nupkg.sha512",
+    "C:\\Users\\vitek\\.nuget\\packages\\giosharp\\3.24.24.34\\giosharp.3.24.24.34.nupkg.sha512",
+    "C:\\Users\\vitek\\.nuget\\packages\\glibsharp\\3.24.24.34\\glibsharp.3.24.24.34.nupkg.sha512",
+    "C:\\Users\\vitek\\.nuget\\packages\\gtksharp\\3.24.24.34\\gtksharp.3.24.24.34.nupkg.sha512",
+    "C:\\Users\\vitek\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\vitek\\.nuget\\packages\\pangosharp\\3.24.24.34\\pangosharp.3.24.24.34.nupkg.sha512"
+  ],
+  "logs": []
+}
